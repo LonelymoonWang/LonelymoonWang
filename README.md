@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 这是我的GitHub
+- 我的网名是LonelymoonWang
+- 我的博客是[Lonelymoon.wang](lonelymoon.wang)
+- 我是一名程序员
+- 刚刚毕业
+- 欢迎和我成为朋友，谢谢。
